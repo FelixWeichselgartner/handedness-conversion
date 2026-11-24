@@ -5,6 +5,8 @@ quaternions, Euler angles and rotation matrices.
 
 This repository contains a short paper and a formal proof in Lean 4.
 
+**📄 [Read the paper (PDF)](paper/main.pdf)**
+
 ## The rule
 
 If the coordinates of a left-handed system are obtained from a right-handed system by an
